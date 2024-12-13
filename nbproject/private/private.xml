@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/src/java/model/entity/User.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/web/WEB-INF/adminDash/home.jsp</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/src/java/user/Home.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/src/java/model/dao/EtudiantDao.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/src/java/admin/DeleteStudent.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/src/java/admin/AddStudent.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/src/java/authentification/auth.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/web/WEB-INF/adminDash/gestStudent.jsp</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/src/java/admin/Home.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/src/java/model/dao/EtudiantDaoImpl.java</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/web/WEB-INF/userDash/home.jsp</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/web/WEB-INF/adminDash/addStudent.jsp</file>
+            <file>file:/C:/Users/yahya/Documents/NetBeansProjects/TP5/web/errorPage.jsp</file>
+        </group>
+    </open-files>
+</project-private>
